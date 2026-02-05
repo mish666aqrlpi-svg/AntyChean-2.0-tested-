@@ -1,0 +1,21 @@
+<!-- Maven pom.xml -->
+<dependencies>
+    <!-- Основные зависимости -->
+    <dependency>
+        <groupId>org.deeplearning4j</groupId>
+        <artifactId>deeplearning4j-core</artifactId>
+        <version>1.0.0-M2.1</version>
+    </dependency>
+    
+    <dependency>
+        <groupId>org.bytedeco</groupId>
+        <artifactId>javacv-platform</artifactId>
+        <version>1.5.8</version>
+    </dependency>
+    
+    <dependency>
+        <groupId>org.pcap4j</groupId>
+        <artifactId>pcap4j-core</artifactId>
+        <version>1.8.2</version>
+    </dependency>
+</dependencies>
